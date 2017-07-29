@@ -1,0 +1,10 @@
+C:\Users\gabri_000\Desktop\Estudos C#\Projetos C#\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\gabri_000\Desktop\Estudos C#\Projetos C#\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\gabri_000\Desktop\Estudos C#\Projetos C#\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\gabri_000\Desktop\Estudos C#\Projetos C#\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\gabri_000\Desktop\Estudos C#\Projetos C#\Bank\Bank\obj\Debug\Bank.Form1.resources
+C:\Users\gabri_000\Desktop\Estudos C#\Projetos C#\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\gabri_000\Desktop\Estudos C#\Projetos C#\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\gabri_000\Desktop\Estudos C#\Projetos C#\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\gabri_000\Desktop\Estudos C#\Projetos C#\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\gabri_000\Desktop\Estudos C#\Projetos C#\Bank\Bank\obj\Debug\Bank.FormCadastroConta.resources
