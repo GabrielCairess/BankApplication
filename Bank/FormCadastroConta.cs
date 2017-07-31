@@ -31,7 +31,6 @@ namespace Bank
             novaConta.Titular = new Cliente(textoTitular.Text);
             novaConta.Number = Convert.ToInt32(textoNumero.Text);
             formPrincipal.AdicionaConta(novaConta);
-
             textoNumero.Clear();
             textoTitular.Clear();
             MessageBox.Show("Cadastro feito com sucesso!");
